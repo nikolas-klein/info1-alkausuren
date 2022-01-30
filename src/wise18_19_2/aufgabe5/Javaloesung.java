@@ -1,4 +1,4 @@
-package wise18_19_1.aufgabe5;
+package wise18_19_2.aufgabe5;
 
 import java.util.Arrays;
 

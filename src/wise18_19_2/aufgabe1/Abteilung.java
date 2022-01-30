@@ -1,9 +1,8 @@
-package wise18_19_1.aufgabe1;
+package wise18_19_2.aufgabe1;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 public class Abteilung {
 
